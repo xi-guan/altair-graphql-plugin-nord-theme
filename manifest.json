@@ -10,5 +10,8 @@
   "plugin_class": "NordTheme",
   "scripts": [
     "src/index.js"
+  ],
+  "styles": [
+    "src/custom.css"
   ]
 }

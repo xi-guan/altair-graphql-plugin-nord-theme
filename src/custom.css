@@ -1,0 +1,29 @@
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+  background-color: #2e3440;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #bababa;
+  border-radius: 5px;
+}
+
+.query-editor__line-widget {
+  font-family: Roboto, serif !important;
+  background: #516f77
+}
+
+app-flex-resizer{
+  width: 5px;
+  height: 40px;
+}
+
+.variable-editor-resizer{
+  width: 40px;
+  height: 5px;
+}
+
+.variables-editor--title{
+  border-top: 1px solid #6d6d6d;
+}
